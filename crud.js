@@ -5,6 +5,26 @@ app.set("view engine", "ejs")
 
 
 //servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
+//servername:localhost,
 //username : root
 //password: empty
 //databasename : database
