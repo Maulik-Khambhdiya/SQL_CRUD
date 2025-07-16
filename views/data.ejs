@@ -1,0 +1,29 @@
+<form action="/crudData">
+    <input type="text" name="name" id=""><br><br>
+    <input type="password" name="password" id=""><br><br>
+
+    <button type="submit">Submit</button>
+</form>
+
+
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Password</th>
+    </tr>
+
+    <% data.map((item,index)=>{
+    %>
+
+    <tr>
+        <td><%= index+1 %></td>
+        <td><%= item.name %></td>
+        <td><%= item.password %></td>
+        
+    </tr>
+
+    <%
+    })
+    %>
+</table>
